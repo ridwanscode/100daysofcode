@@ -1,0 +1,19 @@
+*{
+    background-color: aqua;
+}
+h1 {
+    border: 1px solid black;
+    color:black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h2{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img{
+    float:right;
+    padding-right: 20px;
+    border:12px;
+}
